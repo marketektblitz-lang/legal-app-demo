@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[15],{8015:(e,t,a)=>{function i(){throw Error("SQLite is not available in the static demo")}a.r(t),a.d(t,{default:()=>i})}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[862],{3862:(e,s,r)=>{r.r(s),r.d(s,{registerEmailJobs:()=>u});var i=r(4871),t=r(6442);function u(){(0,i.registerJob)("email.send",e=>(0,t.cK)(e.outboxId))}}}]);
